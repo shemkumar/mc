@@ -1,5 +1,7 @@
 #!/bin/bash
 
+echo"WElcome to hacking"
+
 # Prompt user for target URL
 echo "Enter the target URL:"
 read url
